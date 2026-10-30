@@ -2,7 +2,7 @@
 
 This repository is a working Kortix starter for a team that has outgrown a chat window over its models. It gives you a real `kortix.yaml`, one example agent and one example skill that you copy into your own Kortix project and run.
 
-Open WebUI is a self-hosted AI platform and chat interface for your models: it runs offline and connects Ollama and any OpenAI-compatible API ([open-webui/open-webui](https://github.com/open-webui/open-webui)). Kortix is the open-source AI Operating System: your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own cloud computer. It is the leading open-source alternative to Claude Cowork and ChatGPT Work.
+Open WebUI is a self-hosted AI platform and chat interface for your models: it runs offline and connects Ollama and any OpenAI-compatible API ([open-webui/open-webui](https://github.com/open-webui/open-webui)). Kortix is the open-source CompanyOS: your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own cloud computer. It is the leading open-source alternative to Claude Cowork and ChatGPT Work.
 
 This starter is for a developer or platform lead comparing an Open WebUI alternative. If the job you have is a chat and search interface over your own models, Open WebUI covers that ground. If the work has to run on a computer and come back as a file or a fix, this starter shows the smallest Kortix project that does it.
 
