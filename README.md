@@ -99,4 +99,4 @@ Everything the project holds is a file in the repo you own: the agents, the skil
 
 The comparison runs in a browser at [Kortix vs Open WebUI](https://openwebuialternative.com/kortix-vs-open-webui), and the whole question starts at the [Open WebUI alternative](https://openwebuialternative.com/) overview.
 
-Kortix is open source. Read it, fork it, audit it at [Kortix on GitHub](https://github.com/kortix-ai/suna). Self-host is free, or [Try Kortix](https://kortix.com) in the cloud first.
+Kortix is open source. Read it, fork it, audit it at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Self-host is free, or [Try Kortix](https://kortix.com) in the cloud first.
