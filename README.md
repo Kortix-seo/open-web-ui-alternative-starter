@@ -1,10 +1,10 @@
 # Kortix is open source: a starter for an Open WebUI alternative
 
-This repository is a working Kortix starter for a team that has outgrown a chat window over its models. It gives you a real `kortix.yaml`, one example agent and one example skill that you copy into your own Kortix project and run.
+This repository is a working Kortix starter for a team that has outgrown a chat window over its models. It gives you a real `kortix.yaml`, one example agent and one example skill that you copy into your own Kortix workspace and run.
 
 Open WebUI is a self-hosted AI platform and chat interface for your models: it runs offline and connects Ollama and any OpenAI-compatible API ([open-webui/open-webui](https://github.com/open-webui/open-webui)). Kortix is the open-source CompanyOS: your agents, skills, company memory, and connectors live in one git repo you own, and each session runs on its own cloud computer. It is the leading open-source alternative to Claude Cowork and ChatGPT Work.
 
-This starter is for a developer or platform lead comparing an Open WebUI alternative. If the job you have is a chat and search interface over your own models, Open WebUI covers that ground. If the work has to run on a computer and come back as a file or a fix, this starter shows the smallest Kortix project that does it.
+This starter is for a developer or platform lead comparing an Open WebUI alternative. If the job you have is a chat and search interface over your own models, Open WebUI covers that ground. If the work has to run on a computer and come back as a file or a fix, this starter shows the smallest Kortix workspace that does it.
 
 ## What this starter gives you
 
@@ -12,9 +12,9 @@ This starter is for a developer or platform lead comparing an Open WebUI alterna
 - One agent, `daily-digest`: a block in `kortix.yaml` that sets its prompt file and its permission, and a markdown file in `agents/` that holds the prompt.
 - One skill, `activity-digest`, the reusable know-how the agent loads on demand.
 
-Copy the three into your project, run the loop, and grow from there.
+Copy the three into your workspace, run the loop, and grow from there.
 
-## The Kortix project you end up with
+## The Kortix workspace you end up with
 
 ```
 kortix.yaml
@@ -67,7 +67,7 @@ Three things to notice. `default_agent` names the agent a session starts when yo
 
 ## Quickstart
 
-Copy the three starter files into a Kortix project, then run three commands.
+Copy the three starter files into a Kortix workspace, then run three commands.
 
 ```bash
 # 1 · Install the Kortix CLI
@@ -89,7 +89,7 @@ kortix chat      # talk to the session's agent from your terminal
 
 ## What you take with you
 
-Everything the project holds is a file in the repo you own: the agents, the skills, the memory the agent writes, and the manifest. Roll any part of it back, diff any change, and grep the whole project. When you leave, you leave with the repo.
+Everything the workspace holds is a file in the repo you own: the agents, the skills, the memory the agent writes, and the manifest. Roll any part of it back, diff any change, and grep the whole workspace. When you leave, you leave with the repo.
 
 ## Read next
 
